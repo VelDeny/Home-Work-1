@@ -1,0 +1,23 @@
+.top {
+    color: blue;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.midle {
+    color: snow;
+    background-color: silver;
+    font-size: 25px;
+}
+.title {
+    background-color: blue;
+    font-size: 40px;
+    color: cornsilk;
+    }
+.compani {
+    color: yellow;
+    font-size: 25px;
+}
+.vacanci {
+    color: blueviolet;
+}
